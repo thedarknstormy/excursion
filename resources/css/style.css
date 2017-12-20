@@ -11,7 +11,39 @@ h1  {
 }
 
 h6  {
+  font-family: Verdana;
   color: Aquamarine;
   font-size: 16px;
+  text-align: center;
+}
+
+.cellphone_vid {
+  text-align: center;
+}
+
+h2.subheading_1 {
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p.excursion {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
+.images {
+  text-align: center;
+}
+
+h2.subheading_2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
   text-align: center;
 }
